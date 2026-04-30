@@ -68,20 +68,13 @@ Building intelligent systems, backend infrastructure, and AI-powered application
 
 ---
 
-### 🎵 BeatSync (Real-Time Audio Sync Platform)
-- Built a synchronized audio streaming system  
-- Ensures multiple clients play audio in perfect sync  
-- Focus on low-latency backend communication  
-
----
-
-### 🤖 AI + Systems Exploration
-- Working on integrating AI into real-world systems  
-- Exploring:
-  - LLM-based workflows  
-  - Retrieval-based systems  
-  - Automation pipelines  
-
+### Fundamental Alpha Hunter (Crypto RAG System)
+- Built a RAG system to analyze blockchain protocols using whitepapers instead of market data
+- Implemented memory-safe PDF ingestion and controlled chunking for large documents
+- Used Pinecone for vector search and LLMs for evidence-based responses
+- Generated citation-backed answers with protocol and page references
+- Designed for real-world constraints like rate limits and long-running jobs
+  
 ---
 
 ## 🧠 Core Skills
