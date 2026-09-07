@@ -1,43 +1,42 @@
 <!--
   Open items:
-  1. Minutely — repo link added. If you also have a public live demo, send the URL and
-     I'll add a Live Demo badge next to the repo one.
-  2. GH2_Credit_System shows on GitHub as a fork of sheikhMashuk/GH2_Credit_System. If
-     that's a teammate's repo from the HackOut'25 build, this is completely normal for a
-     team hackathon project and the link below is fine as-is — flag it if that's wrong.
-  3. If the GitHub stats badges below ever show broken, self-host github-readme-stats or
-     generate it via GitHub Actions — see that project's README for both options.
+  1. Minutely — if you have a public live demo beyond the Railway deploy, send it and I'll
+     add a Live Demo badge next to the repo one.
+  2. GH2_Credit_System shows as a fork of sheikhMashuk/GH2_Credit_System — fine if that's a
+     teammate's repo from the HackOut'25 build, flag it if not.
 -->
 
 <div align="center">
 
 ![Chaitanya Virani — AI and Backend Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Chaitanya%20Virani&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20and%20Backend%20Engineer&descAlignY=55&descSize=18&descColor=cbd5e1)
 
-[![Typing animation of current focus areas](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Engineering+Intern+Experience;FastAPI+Backends+%7C+RAG+Pipelines;LangChain+%7C+Pinecone+%7C+Claude+Tool+Use;Turning+Messy+Data+into+Structured+Output)](https://git.io/typing-svg)
+[![Typing animation of current focus areas](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=FastAPI+Backends+%7C+RAG+Pipelines;LangChain+%7C+Pinecone+%7C+Vector+Search;Turning+Messy+Data+into+Structured+Output)](https://git.io/typing-svg)
 
 ![Open to AI and Backend Internships](https://img.shields.io/badge/Open%20to-AI%20%2F%20Backend%20Internships-38BDF8?style=for-the-badge)
+
+</div>
+
+```python
+# whoami
+class Chaitanya:
+    def __init__(self):
+        self.role     = "AI / Backend Engineer"
+        self.studying = "B.Tech ICT @ PDEU"
+        self.stack    = ["Python", "FastAPI", "LangChain", "Pinecone"]
+        self.ships    = ["Minutely", "CITS", "CrossKey Wallet"]
+        self.status   = "open to AI engineering internships"
+
+    def what_i_do(self):
+        return "turn messy transcripts, reviews, and documents into structured, cited answers"
+```
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaitanya-Virani)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyavirani125@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyavirani/)
 
 </div>
-
----
-
-### About
-
-AI/Backend Engineer studying ICT at PDEU. I've interned building AI-assisted tools with the Anthropic API and Claude Code, and on my own time I build FastAPI backends and RAG pipelines that turn messy documents into structured, evidence-backed output.
-
----
-
-### 💼 Experience
-
-**AI Engineer Intern**, Clarivis Intelligence *(Hybrid)* — May–Jul 2026
-Built internal tools and websites using the Anthropic API and Claude Code to support consulting operations; developed AI-assisted prototypes and workflows that streamlined day-to-day tasks across the team.
-
-**Python Developer Intern**, LNX Cloud Technologies — May–Jun 2023
-Contributed to Python/Django application features (models, views, routing) and took part in code reviews and debugging sessions.
 
 ---
 
@@ -71,12 +70,38 @@ A React-based wallet manager for Ethereum and Polygon testnets — generate or i
 
 ---
 
-### 🏆 Hackathons & Workshops
+### 🧭 Where I've Built Things
 
-- **Code with Cisco '26** — Top 75 National Finalist (India), Cisco Campus. Led problem-solving design and technical direction in the on-site final round.
-- **HackNUthon'25** — 6th place / 100+ teams for [CrossKey Crypto Wallet](https://github.com/Chaitanya-Virani/CrossKey-Crypto-Wallet), featured above.
-- **[HackOut'25](https://github.com/Chaitanya-Virani/GH2_Credit_System)** — DAIICT Hackathon. Directed the build of a blockchain-based NFT marketplace for Green Hydrogen Credits — smart-contract minting logic and role-based verification across Solidity, Node.js, PostgreSQL, and React.
-- **Advanced LLM & RAG Workshop** — PDEU Campus. Built a Transformer from scratch (tokenization, embeddings, self-attention, full transformer blocks), then shipped a memory-enabled chatbot and a PDF-based RAG system with LangChain and Pinecone.
+- **Built AI tools used in live consulting operations** — AI Engineer Intern, Clarivis Intelligence
+- **Wrote production Django features** — Python Developer Intern, LNX Cloud Technologies
+- **National Top-75 Finalist** — Code with Cisco '26
+- **6th place, 100+ teams** — HackNUthon'25 (CrossKey Wallet, above)
+- **Directed a full-stack hackathon build** — HackOut'25, DAIICT
+- **Built a Transformer from scratch** — Advanced LLM & RAG Workshop, PDEU
+
+<details>
+<summary>Full details & dates</summary>
+<br>
+
+**AI Engineer Intern**, Clarivis Intelligence *(Hybrid)* — May–Jul 2026
+Built internal tools and websites using the Anthropic API and Claude Code to support consulting operations; developed AI-assisted prototypes and workflows that streamlined day-to-day tasks across the team.
+
+**Python Developer Intern**, LNX Cloud Technologies — May–Jun 2023
+Contributed to Python/Django application features (models, views, routing) and took part in code reviews and debugging sessions.
+
+**Code with Cisco '26** — Top 75 National Finalist (India), Cisco Campus
+Selected among the top 75 students nationally; led problem-solving design and technical direction in the on-site final round.
+
+**HackNUthon'25** — 6th place / 100+ teams
+The build behind [CrossKey Crypto Wallet](https://github.com/Chaitanya-Virani/CrossKey-Crypto-Wallet) — a multi-chain Chrome wallet (Ethereum + Polygon testnets) built with ethers.js and a modular React frontend.
+
+**[HackOut'25](https://github.com/Chaitanya-Virani/GH2_Credit_System)** — DAIICT Hackathon
+Directed the build of a blockchain-based NFT marketplace for Green Hydrogen Credits — smart-contract minting logic and role-based verification across Solidity, Node.js, PostgreSQL, and React.
+
+**Advanced LLM & RAG Workshop** — PDEU Campus
+Built a Transformer from scratch (tokenization, embeddings, self-attention, full transformer blocks), then shipped a memory-enabled chatbot and a PDF-based RAG system using LangChain and Pinecone.
+
+</details>
 
 ---
 
@@ -123,12 +148,18 @@ A React-based wallet manager for Ethereum and Polygon testnets — generate or i
 
 ---
 
-### 📊 GitHub Activity
+<details>
+<summary><strong>📊 GitHub Activity</strong> (click to expand)</summary>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Virani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Chaitanya's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Virani&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most used languages" />
 </p>
+
+If these show broken, it's the free public instance hitting its rate limit — it usually clears on a refresh. [Self-hosting](https://github.com/anuraghazra/github-readme-stats) is the permanent fix.
+
+</details>
 
 ---
 
