@@ -1,57 +1,85 @@
-# 👋 Hey there, I'm Chaitanya Virani!
+<!--
+  Quick TODOs before you publish this:
+  1. "Fundamental Alpha Hunter" isn't linked below — I couldn't find a public repo by
+     that name among your pinned projects. Add the repo/demo URL once you've got one,
+     or make the repo public if it already exists.
+  2. GH2_Credit_System is currently pinned on your profile but it's a fork, not your
+     own work — consider swapping that pin slot for CrossKey-Crypto-Wallet instead.
+  3. If the GitHub stats badges below ever show broken (common on the free tier),
+     self-host github-readme-stats or generate it via GitHub Actions — see that
+     project's README for both options.
+-->
 
-Building intelligent systems, backend infrastructure, and AI-powered applications 🚀
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chaitanya-Virani&style=flat-square&color=brightgreen)
+![Chaitanya Virani — AI and Backend Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Chaitanya%20Virani&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20and%20Backend%20Engineer&descAlignY=55&descSize=18&descColor=cbd5e1)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineering+%7C+Backend+Systems;Python+%7C+FastAPI+%7C+LLMs;Building+Scalable+AI+Workflows;Code.+Build.+Optimize." />
-</p>
+[![Typing animation of current focus areas](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Retrieval-Augmented+Generation+%7C+RAG+Pipelines;FastAPI+and+Python+Backends;Vector+Search+%7C+Pinecone+%7C+LLMs;Turning+Documents+into+Cited+Answers)](https://git.io/typing-svg)
+
+![Open to AI and Backend Internships](https://img.shields.io/badge/Open%20to-AI%20%2F%20Backend%20Internships-38BDF8?style=for-the-badge)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyavirani125@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyavirani/)
+
+</div>
 
 ---
 
-## 🚀 About Me
+### About
 
-💻 **AI-Focused Backend Developer** — Building scalable systems using Python, FastAPI, and modern architectures  
-🤖 **AI Enthusiast** — Working with ML pipelines, data processing, and exploring LLM-based systems  
-⚙️ **Systems Builder** — Experienced in designing real-time and distributed systems  
-🧠 **Problem Solver** — Strong analytical mindset with focus on efficient and practical solutions  
-🌱 **Currently Learning** — Agentic AI, RAG pipelines, and LLM integrations  
-
-> I focus on building systems that are not just functional, but scalable and intelligent.
+I build backend systems and AI applications — from FastAPI services to retrieval-augmented pipelines that turn unstructured documents into cited, evidence-backed answers. Comfortable across the stack: data ingestion, API design, vector search, and the LLM layer on top. Right now, going deeper on agentic AI and multi-step RAG.
 
 ---
 
-## 🛠️ Tech Stack
+### 🔥 Featured Projects
 
-### 🧠 AI / Backend
+**Fundamental Alpha Hunter** — *Crypto Research RAG System*
+A retrieval-augmented system that answers questions about blockchain protocols using their actual whitepapers — not price charts or hype.
+- Memory-safe PDF ingestion with controlled chunking for long technical documents
+- Pinecone vector search paired with an LLM layer that answers from evidence, not summaries
+- Every answer cites its source protocol and page number
+- Built around real constraints — rate limits, long-running jobs — not just a demo script
+
+`Python` `Pinecone` `LLMs` `RAG`
+
+**[Customer Insight Triage System](https://github.com/Chaitanya-Virani/CITS)**
+Classifies and routes incoming customer feedback automatically instead of leaving it for manual sorting.
+- ML-based text classification and preprocessing pipeline
+- Backend APIs designed for scalable, real-time processing
+
+`Python` `FastAPI` `Machine Learning`
+
+**[CrossKey Crypto Wallet](https://github.com/Chaitanya-Virani/CrossKey-Crypto-Wallet)**
+A React-based wallet manager for Ethereum and Polygon testnets — generate or import a wallet, check balances, and send transfers behind a password-protected UI.
+
+`React` `JavaScript` `Web3`
+
+---
+
+### 🛠️ Tech Stack
+
+**AI / Backend**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square)
-![Data Processing](https://img.shields.io/badge/-Data%20Processing-4CAF50?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Pinecone](https://img.shields.io/badge/-Pinecone-0EA5A4?style=flat-square)
 
----
-
-### 🌐 Web & Systems
+**Web**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
----
-
-### 🗃️ Databases & Infra
+**Data & Infra**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
-### 🧰 Tools
+**Tools**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -59,68 +87,17 @@ Building intelligent systems, backend infrastructure, and AI-powered application
 
 ---
 
-## 🔥 Projects
-
-### 📊 Customer Insight Triage System
-- Built an intelligent system to analyze and classify customer feedback  
-- Applied ML techniques for text processing and classification  
-- Designed backend APIs for scalable processing  
-
----
-
-### Fundamental Alpha Hunter (Crypto RAG System)
-- Built a RAG system to analyze blockchain protocols using whitepapers instead of market data
-- Implemented memory-safe PDF ingestion and controlled chunking for large documents
-- Used Pinecone for vector search and LLMs for evidence-based responses
-- Generated citation-backed answers with protocol and page references
-- Designed for real-world constraints like rate limits and long-running jobs
-  
----
-
-## 🧠 Core Skills
-
-- Python backend development  
-- FastAPI & API design  
-- Machine learning fundamentals  
-- Data preprocessing (TF-IDF, feature extraction)  
-- System design & real-time architectures  
-- Database design (SQL / NoSQL)  
-- Debugging & performance optimization  
-
----
-
-## 📈 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Virani&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Virani&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Virani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Chaitanya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Virani&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most used languages" />
 </p>
 
 ---
 
-## 🎯 Currently Focused On
+<div align="center">
 
-- Agentic AI systems  
-- Prompt engineering  
-- RAG pipelines  
-- Scalable backend architectures  
+![](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=100&section=footer)
 
----
-
-## 📫 Connect
-
-<p align="center">
-  <a href="mailto:chaitanyavirani125@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/chaitanyavirani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-</p>
-
----
-
-<p align="center">
-  🤝 Open to AI Engineering Internships & backend-focused roles
-</p>
+</div>
